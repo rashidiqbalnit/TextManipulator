@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rashidiqbalnit/TextManipulator/static/css/main.f855e6bc.css",
+    "main.js": "/rashidiqbalnit/TextManipulator/static/js/main.614dc51b.js",
+    "static/js/787.d471bf6b.chunk.js": "/rashidiqbalnit/TextManipulator/static/js/787.d471bf6b.chunk.js",
+    "index.html": "/rashidiqbalnit/TextManipulator/index.html",
+    "main.f855e6bc.css.map": "/rashidiqbalnit/TextManipulator/static/css/main.f855e6bc.css.map",
+    "main.614dc51b.js.map": "/rashidiqbalnit/TextManipulator/static/js/main.614dc51b.js.map",
+    "787.d471bf6b.chunk.js.map": "/rashidiqbalnit/TextManipulator/static/js/787.d471bf6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.614dc51b.js"
+  ]
+}
